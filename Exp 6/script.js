@@ -1,4 +1,5 @@
-        function validation(){
+// age validataion      
+function validation(){
             var age;
             nameValidation();
             contactValidation();
